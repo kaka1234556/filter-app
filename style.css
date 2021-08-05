@@ -1,0 +1,16 @@
+h3{
+    font-size:35px !important;
+    }
+    
+    .btn-warning:hover
+    {
+        background-color:aquamarine;
+        font-family: Verdana, Geneva, Tahoma, sans-serif;
+        color: darkgoldenrod;
+    }
+    
+    Canvas{
+    border: blueviolet;
+    box-shadow:darkcyan;
+    }
+    
